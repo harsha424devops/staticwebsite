@@ -4,4 +4,3 @@
 create
 
 ### Batch 7
-# staticwebsite
